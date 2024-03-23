@@ -1,6 +1,14 @@
 {
   "expo": {
     "name": "react-native-animation",
-    "slug": "react-native-animation"
+    "slug": "react-native-animation",
+    "extra": {
+      "eas": {
+        "projectId": "934ab657-e323-441b-8952-07f9bfcd4776"
+      }
+    },
+    "android": {
+      "package": "com.rajkrishnaexpodev.reactnativeanimation"
+    }
   }
 }
